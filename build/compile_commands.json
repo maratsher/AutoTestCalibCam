@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/gigachad/Документы/Code/Test/build",
+  "command": "/usr/bin/g++  -isystem /usr/local/include/opencv4 -g -o CMakeFiles/MyTest.dir/main.cpp.o -c /home/gigachad/Документы/Code/Test/main.cpp",
+  "file": "/home/gigachad/Документы/Code/Test/main.cpp"
+}
+]
